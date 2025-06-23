@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/kevinkizerjr/">Kevin Kizer Jr</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I am passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects, such as building VM lab environments and conducting vulnerability assessments to deepen my technical expertise. In addition to holding certifications including Network+, Security+, SSCP, CySA+, Pentest+, and ITIL v4, I am actively developing my skills through personal projects to prepare for roles in cybersecurity. My background combines technical leadership experience managing electronic systems installations with a strong foundation in IT infrastructure, cloud security, and compliance frameworks. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I am passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects, such as building VM lab environments and conducting vulnerability assessments to deepen my technical expertise. In addition to holding certifications including Network+, Security+, SSCP, CySA+, and Pentest+, I am actively developing my skills through personal projects to prepare for roles in cybersecurity. My background combines technical leadership experience managing electronic systems installations with a strong foundation in IT infrastructure, cloud security, and compliance frameworks. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
 ## ⚠️ Home Lab Telemetry Project
@@ -16,14 +16,8 @@ I am passionate about cybersecurity and enjoy tackling complex challenges throug
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
 [linkedin]: https://linkedin.com/in/___________
 
 <!--
