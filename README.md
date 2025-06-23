@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/kevinkizerjr/">Kevin Kizer Jr</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-IT Professional with 4+ years of technical experience with a profound interest in Cybersecurity. I find fulfillment in tackling complex challenges through hands-on projects, such as building VM lab environments, conducting vulnerability assessments, and log analysis to prepare for roles in cybersecurity field. In addition to holding certifications including Network+, Security+, and Pentest+, I am actively developing my skills to deepen my technical expertise. My background combines technical experience managing electronic systems, with a strong foundation in IT infrastructure, cloud security, and compliance frameworks.
+IT Professional with 4+ years of technical experience and a profound interest in Cybersecurity. I find fulfillment in tackling complex challenges through hands-on projects, such as building VM lab environments, conducting vulnerability assessments, and log analysis to prepare for roles in the cybersecurity sector. In addition to holding certifications including Network+, Security+, and Pentest+, I am actively developing my skills to deepen my technical expertise. My background combines technical experience managing electronic systems, with a strong foundation in IT infrastructure, cloud security, and compliance frameworks.
 
 
 ## ⚠️ SOC Projects
