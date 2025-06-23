@@ -9,10 +9,6 @@ IT Professional with 4+ years of technical experience with a profound interest i
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/ryptods/Malware_Detection_and_Analysis_Lab/tree/main">Malware Detection and Analysis Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ryptods/Malware_Detection_and_Analysis_Lab/tree/main">Malware Detection and Analysis Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 ### Network
