@@ -3,10 +3,16 @@
 I am passionate about cybersecurity and enjoy tackling complex challenges through hands-on projects, such as building VM lab environments and conducting vulnerability assessments to deepen my technical expertise. In addition to holding certifications including Network+, Security+, SSCP, CySA+, and Pentest+, I am actively developing my skills through personal projects to prepare for roles in cybersecurity. My background combines technical leadership experience managing electronic systems installations with a strong foundation in IT infrastructure, cloud security, and compliance frameworks. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-## ⚠️ Home Lab Telemetry Project
+## ⚠️ SOC Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+| Skills Demonstrated                           | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/ryptods/Malware_Detection_and_Analysis_Lab/tree/main">Malware Detection and Analysis Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ryptods/Malware_Detection_and_Analysis_Lab/tree/main">Malware Detection and Analysis Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## 🚨 Threat Hunting and Security Operations
 
